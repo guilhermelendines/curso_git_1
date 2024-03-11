@@ -4,3 +4,7 @@ import time
 
 time.sleep(3)
 print(pyautogui.position())
+a
+breaka
+breaka
+set
