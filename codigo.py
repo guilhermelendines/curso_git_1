@@ -3,6 +3,7 @@
 # Passo 1: Entrar no sistema da empresa 
 #teste push pro clone
  #https://dlp.hashtagtreinamentos.com/python/intensivao/login
+#enviando algumacoisa
 import pyautogui
 import time
 
